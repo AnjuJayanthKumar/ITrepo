@@ -1,0 +1,31 @@
+<html>
+<head>
+<style>
+ul {
+list-style-type:none;
+margin:0;
+padding:0;
+width:200px;
+background-color:#f1f1f1;
+}
+li a {
+display:block;
+color:#000;
+padding:8px 16px;
+text-decoration:none;
+}
+li a:hover {
+background-color:#555;
+color:white;
+}
+</style>
+</head>
+<body>
+<ul>
+<li><a href="/home/section1/2016cse022/prgm13.html" target="two"> home </a> </li>
+<li><a href="/home/section1/2016cse022/prgm8.html" target="two"> news </a> </li>
+<li><a href="" target="two">contact </a> </li>
+<li><a href="" target="two"> about </a> </li>
+</ul>
+</body>
+</html>
